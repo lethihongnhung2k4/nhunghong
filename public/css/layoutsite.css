@@ -1,0 +1,140 @@
+
+.input-group input[type="text"] {
+    border: 1px solid #7FFF00;
+    border-radius: 3px;
+    padding: 5px 10px;
+    font-size: 14px;
+}
+
+
+.input-group-text {
+    background-color: #7FFF00;
+    border: 1px solid #7FFF00;
+    border-radius: 3px;
+    padding: 5px;
+}
+
+
+.input-group-text i.fas.fa-search {
+    color: #FFFFFF; 
+}
+
+
+.col-md-1 .input-group {
+    background-color: #7FFF00; 
+    border: 1px solid #7FFF00; 
+    border-radius: 3px;
+    padding: 5px;
+    display: inline-block;
+}
+
+
+.col-md-2 .input-group .input-group-text i.fas.fa-phone {
+    color: #FFFFFF; 
+}
+
+
+.col-md-2 .input-group .form-control {
+    color: #FFFFFF;
+    background-color: #7FFF00; 
+    border: none; 
+    border-radius: 0px; 
+}
+
+.icon-box {
+    background-color: #7FFF00; 
+    border: 1px solid #7FFF00; 
+    border-radius: 3px;
+    padding: 5px;
+    display: inline-block;
+}
+
+
+.icon-box i {
+    color: #FFFFFF; 
+}
+#menu {
+    background-color: #7FFF00; 
+    color: #ffffff; 
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+#menu ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+}
+#menu ul li {
+    margin-right: 25px;
+    cursor: pointer;
+}
+#submenu {
+    display: none;
+    position: absolute;
+    background-color: #ffffff; 
+    padding: 10px;
+}
+#submenu ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+#submenu ul li {
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+ 
+  .footer {
+    background-color: #d0f0c0;
+    padding: 20px 0;
+    text-align: center;
+  }
+
+  .footer-column {
+    display: inline-block;
+    vertical-align: top;
+    width: 25%;
+    padding: 0 15px;
+  }
+
+  .footer-logo {
+    width: 80px; 
+  }
+
+  .footer-heading {
+    color: #008000; 
+    font-weight: bold;
+  }
+
+  .footer-text {
+    color: #008000; 
+  }
+  .footer-column {
+    text-align: left;
+  }
+  .footer-links img {
+    width: 40px;
+    margin: 5px;
+  }
+
+
+  .footer-border {
+    border-top: 1px solid #008000; 
+    margin-top: 20px;
+  }
+  .footer-column img {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 10px;  
+  }
+  .footer-column img {
+    margin-bottom: 10px; 
+  }
+  
+  .footer-column:last-child img {
+    width: 40px; 
+    margin-right: 5px; 
+  }
